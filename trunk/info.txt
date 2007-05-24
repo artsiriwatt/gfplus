@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name"		"GeoForts Plus Revamp"
+	"version"	"WIP"
+
+	"author_name"	"GeoForts+ Team"
+	"author_email"	""
+	"author_url"	""
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+}
