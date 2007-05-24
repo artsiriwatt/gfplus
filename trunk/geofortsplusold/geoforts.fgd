@@ -1,0 +1,39 @@
+@include "halflife2.fgd"
+
+@PointClass size(-8 -8 -8, 8 8 8) = gf_gametimer :
+	"Used to trigger ent_fires for round changes."
+[
+	output OnBuild(void) : "Fires when the build round starts."
+	output OnFight(void) : "Fires when the qualification round starts."
+	output OnQualify(void) : "Fires when the fight round starts."
+]
+
+@PointClass base(BasePropPhysics) studio("models/buildingblocks/blockspawn_1.mdl") = gf_bb_spawner :
+	"Block spawner."
+[
+	skin(integer) : "Team" : 1 : "1 = Blue, 2 = Yellow, 3 = Green, 4 = Red"
+]
+
+@PointClass base(BasePropPhysics) studio("models/roller_spikes.mdl") = gf_flag :
+	"Flag."
+[
+	TeamNum(Choices) : "Team" : 1 =
+	[
+		1 : "Blue"
+		2 : "Yellow"
+		3 : "Green"
+		4 : "Red"
+	]
+]
+
+@PointClass base(BasePropPhysics) studio("models/buildingblocks/playerspawn_1.mdl") = gf_playerspawn :
+	"Spawn pad."
+[
+	skin(integer) : "Team" : 1 : "1 = Blue, 2 = Yellow, 3 = Green, 4 = Red"
+]
+
+@PointClass base(BasePropPhysics) studio("models/buildingblocks/playerspawn_1.mdl") = gf_qualifyspawn :
+	"Spawn pad for qualification round."
+[
+	skin(integer) : "Team" : 1 : "1 = Blue, 2 = Yellow, 3 = Green, 4 = Red"
+]
