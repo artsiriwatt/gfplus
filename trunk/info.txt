@@ -1,6 +1,6 @@
 "Gamemode"
 {
-	"name"		"GeoForts Plus Revamp"
+	"name"		"GeoForts Plus V2"
 	"version"	"WIP"
 
 	"author_name"	"GeoForts+ Team"
