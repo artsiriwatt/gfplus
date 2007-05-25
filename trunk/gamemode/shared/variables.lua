@@ -1,1 +1,3 @@
-V = {}
+GFV = {
+	round = "preround"
+}
