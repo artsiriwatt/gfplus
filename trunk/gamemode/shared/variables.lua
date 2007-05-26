@@ -1,3 +1,3 @@
 GFV = {
-	round = "preround"
+	startRound = "preround"
 }
