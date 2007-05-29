@@ -5,7 +5,10 @@ function hook.Call (name, gmtable, ...)
 	if roundcycle then
 		if roundcycle.round[name] then
 			--Msg ("running "..name.." on round "..roundcycle.round.Name.." . . .\n")
-			roundcycle.round[name] (roundcycle.round[name], unpack (arg))
+			retrn = roundcycle.round[name] (roundcycle.round[name], unpack (arg))
+			if retrn != nil then
+				return retrn
+			end
 		end
 	end
 	return hook.CallHook (name, gmtable, unpack (arg))

@@ -1,4 +1,4 @@
-surface.CreateFont ("coolvetica", 21, 300, true, false, "SmallVetica")
+surface.CreateFont ("Existence Light", 21, 300, true, false, "SmallVetica")
 
 local Menu = {}
 

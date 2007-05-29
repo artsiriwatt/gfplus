@@ -1,19 +1,21 @@
-if CLIENT then
-	for k,v in pairs (file.Find ("../gamemodes/geofortsplus/gamemode/shared/*.lua")) do
-		Msg ("(CL) Loading shared/"..v.." . . .\n")
-		include ("shared/"..v)
+GMName = "gmforts"
+
+--[[if CLIENT then
+	for k,v in pairs (file.Find ("../lua/_downloaded/lua/"..GMName.."/gamemode/client/*.lua")) do
+		Msg ("Loading client/"..v.." . . .\n")
+		include ("_downloaded/lua/"..GMName.."/gamemode/client/"..v)
 	end
-else
+else]]
 	AddCSLuaFile ("shared.lua")
 
-	GM.Name 	= "GeoForts+"
-	GM.Author 	= "The GF+ Team (original GeoForts Night-Eagle)"
-	GM.Email 	= ""
-	GM.Website 	= "http://gmod.phuce.com"
+	GAMEMODE.Name 	= "GeoForts+"
+	GAMEMODE.Author 	= "The GF+ Team (original GeoForts Night-Eagle)"
+	GAMEMODE.Email 	= ""
+	GAMEMODE.Website 	= "http://gmod.phuce.com"
 
-	for k,v in pairs (file.Find ("../gamemodes/geofortsplus/gamemode/shared/*.lua")) do
+	for k,v in pairs (file.Find ("../gamemodes/"..GMName.."/gamemode/shared/*.lua")) do
 		Msg ("Loading shared/"..v.." . . .\n")
-		AddCSLuaFile ("shared/"..v)
+		--AddCSLuaFile ("shared/"..v)
 		include ("shared/"..v)
 	end
-end
+--end

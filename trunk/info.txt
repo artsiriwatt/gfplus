@@ -1,11 +1,11 @@
 "Gamemode"
 {
-	"name"		"GeoForts Plus V2"
+	"name"		"GMForts"
 	"version"	"WIP"
 
-	"author_name"	"GeoForts+ Team"
+	"author_name"	"GMForts Team"
 	"author_email"	""
-	"author_url"	""
+	"author_url"	"gmod.phuce.com"
 	
 	"icon"		""
 	"info"		""

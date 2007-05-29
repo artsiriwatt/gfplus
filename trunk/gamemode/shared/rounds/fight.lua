@@ -1,10 +1,6 @@
-ROUND.Name = "Preround"
+ROUND.Name = "Fight"
 ROUND.Description = {}
-ROUND.Length = 15
-
-function ROUND:Think ()
-	--Msg ("preround thinking . . .\n")
-end
+ROUND.Length = 45
 
 function ROUND:PlayerSpawn (pl)
 	pl:StripWeapons ()
@@ -14,5 +10,5 @@ function ROUND:PlayerSpawn (pl)
 end
 
 function ROUND:End ()
-	return "initialbuild"
+	return "build"
 end
