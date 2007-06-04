@@ -1,3 +1,5 @@
+if GMF then return end
+
 GMF = {
 	startRound = "preround",
 	teams =
