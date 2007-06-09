@@ -46,8 +46,9 @@ end
 
 for k,v in pairs (rounds) do
 	--if k != "default" then
-		Msg ("round "..k..":\n")
+		Msg ("\nround "..k..":\n")
 		Msg ("name: "..tostring(v.Name).."\n")
-		Msg ("length: "..tostring(v.Length).."\n\n")
+		Msg ("length: "..tostring(v.Length).."\n")
 	--end
 end
+Msg ("\n")
