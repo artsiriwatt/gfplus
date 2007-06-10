@@ -23,11 +23,16 @@ Upgrades and special items will be purchased using Upgrade Points that each memb
 *CTF:* When you or a member of your team takes a flag in CTF, you gain 1 UP. If you or your team then captures that flag, then you gain an additional 4 UP for a total of +5 UP.
 
 ===Upgrades===
-*TIP:* UP per level means that it will cost # more UP for each additional level that you purchase.
-||Name||Effect||Notes||Initial Cost||UP per level||Maximum Level||
+*TIP:* +UP per level means that it will cost # more UP for each additional level that you purchase.
+||Name||Effect||Notes||Initial Cost||+UP per level||Maximum Level||
 ||Health Upgrade||Adds 25 to your maximum health||Useful for surviving an assault on an enemy base or defending against 1-hit sniper kills. Can be combined with Armor and Weapon Upgrades to become a 'Juggernaught'.||5||+5 UP per level||4||
 ||Armor Upgrade||Adds 25 to your maximum armor||Useful for surviving an assault on an enemy base or defending against 1-hit sniper kills. Can be combined with Health and Weapon Upgrades to become a 'Juggernaught'.||5||+5 UP per level||4||
 ||Weapon Upgrade||Increases the damage your weapons inflict (varies from weapon to weapon)||Useful for taking out people with health and/or armor upgrades. Can be combined with Health and Armor Upgrades to become a 'Juggernaught'||10||+10 UP per level||2||
 ||Speed Upgrade||Increases your movement speed||Very useful for running across the map quickly and getting past obstacles such as crawltunnels set up to deter attackers by reducing the speed at which they walk and making them an easy target.||5||+5 UP per level||4||
+
+===Special Items===
+||Name||Purpose||Notes||Types||Cost||
+||Radar||A radar dish that detects intruders in a set radius around itself and displays them on your minimap and HUD.||Extremely useful for defending important areas because it gives you and your team early warning and provides HUD icons for easy location of the enemy.||Small Radar/Large Radar||Small Radar=10 UP/Large Radar=20 UP||
+||Turret||A popup turret that attacks intruders within its line-of-sight.||Very useful for controlling chokepoints or defending important areas. Can be used for offensive purposes but due to its long deploy time, the enemy may kill the deploying teammates.||Anti-Infantry Turret/Anti-Vehicle Turret||A-Inf Turret=15 UP/A-Vehc Turret=20 UP||
 
 [http://code.google.com/p/gfplus/ Project home]
