@@ -16,7 +16,7 @@ At the moment, there are two types of gametypes that we are planning on implemen
 ==Upgrades and Special Items==
 Upgrades and special items will be purchased using Upgrade Points that each team earns under certain circumstances.
 
-====Circumstances when UP is earned====
+===Circumstances when UP is earned===
 
 *Assault:* Every minute that a control point in Assault is held, 1 UP is awarded to a team's score. So if you hold 3 control points for a minute, your team gains 3 UP.
 
