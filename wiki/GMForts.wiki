@@ -1,9 +1,9 @@
 GMForts is the successor to Geo Forts Plus, a short-lived but popular fort building gamemode.
 
-= Introduction =
+== Introduction ==
 
 GMForts is a Garrysmod gamemode based around the gameplay aspect of building forts out of geometrically shaped building blocks and then assaulting the enemy's fort to capture their flag, gaint control of a control point, or simply to destroy the enemy fort and deny them access to it.
 
-= Details =
+== Details ==
 
 GMForts is currently in it's development phase. It has two planned gametypes and a very large amount of new and improved content over it's predecessor.
