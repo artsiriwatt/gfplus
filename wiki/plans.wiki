@@ -9,15 +9,17 @@ These are our plans for what GMForts will contain once it has been completed
 ==Gametypes==
 At the moment, there are two types of gametypes that we are planning on implementing.
 
-||*bold*Name*bold*||*bold*Description*bold||
+||*Name*||*Description*||
 ||Assault||Players start out with one control point from which they must branch out and capture additional control points. One team wins when they capture all of the control points and eliminate all enemy players.||
 ||Capture The Flag||Players begin in a designated area of the map and must build up their base in that area to protect their flag, and attack enemy bases as to steal their flag and bring it back to their base to score. The winner is decided by which team has the most points once the time left reaches 0.||
 
 ==Upgrades and Special Items==
 Upgrades and special items will be purchased using Upgrade Points that each team earns under certain circumstances.
 
-Circumstances when UP is earned are as follows:
-*bold*Assault:*bold* Every minute that a control point in Assault is held, 1 UP is awarded to a team's score. So if you hold 3 control points for a minute, your team gains 3 UP.
-*bold*CTF:*bold* When your team captures a flag in CTF, your team gains 5 UP, your team also gains 1 UP for every time you steal a flag but fail to capture it.
+====Circumstances when UP is earned====
+
+*Assault:* Every minute that a control point in Assault is held, 1 UP is awarded to a team's score. So if you hold 3 control points for a minute, your team gains 3 UP.
+
+*CTF:* When your team captures a flag in CTF, your team gains 5 UP, your team also gains 1 UP for every time you steal a flag but fail to capture it.
 
 [http://code.google.com/p/gfplus/ Project home]
