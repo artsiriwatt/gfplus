@@ -1,7 +1,7 @@
 ==Index==
  * [http://code.google.com/p/gfplus/ Main Page]
  * Plans
- * [Upgrades, Special items, and Special Weapons]
+ * [Specials Upgrades, Special items, and Special Weapons]
 
 = Introduction =
 This page contains details on what the current plans for [GMForts] are. These are only ideas so this page is subject to frequent change.
