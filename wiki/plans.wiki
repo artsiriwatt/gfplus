@@ -8,8 +8,4 @@
 This page contains details on what the current plans for [GMForts] are. These are only ideas so this page is subject to frequent change.
 
 =Gametypes=
-At the moment, there are two types of gametypes that we are planning on implementing.
-
-||*Name*||*Description*||
-||Assault||Players start out with one control point from which they must branch out and capture additional control points. One team wins when they capture all of the control points and eliminate all enemy players. Spawners are located at each checkpoint.||
-||Capture The Flag||Players begin in a designated area of the map and must build up their base in that area to protect their flag, and attack enemy bases as to steal their flag and bring it back to their base to score. The winner is decided by which team has the most points once the time left reaches 0. Spawners are located at each team's base.||
+At the moment, there are two types of gametypes that we are planning on implementing: Assault and Capture The Flag. See the [Gameplay How to play] section for more information.
