@@ -26,7 +26,7 @@ Upgrades and special items will be purchased using Upgrade Points that each memb
 ||Name||Effect||Notes||Maximum Level||
 ||Health Upgrade||Adds 25 to your maximum health||Useful for surviving an assault on an enemy base or defending against 1-hit sniper kills. Can be combined with Armor and Weapon Upgrades to become a 'Juggernaught'.||4||
 ||Armor Upgrade||Adds 25 to your maximum armor||Useful for surviving an assault on an enemy base or defending against 1-hit sniper kills. Can be combined with Health and Weapon Upgrades to become a 'Juggernaught'.||4||
-||Weapon Upgrade||Increases the damage your weapons inflict           (varies from weapon to weapon)||Usefull for taking out people with health and/or armor upgrades. Can be combined with Health and Armor Upgrades to become a 'Juggernaught'||2||
+||Weapon Upgrade||Increases the damage your weapons inflict (varies from weapon to weapon)||Usefull for taking out people with health and/or armor upgrades. Can be combined with Health and Armor Upgrades to become a 'Juggernaught'||2||
 ||Speed Upgrade||Increases your movement speed||Very useful for running across the map quickly and getting past obstacles such as crawltunnels set up to deter attackers by reducing the speed at which they walk and making them an easy target.||4||
 
 [http://code.google.com/p/gfplus/ Project home]
