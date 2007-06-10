@@ -2,4 +2,4 @@
  * [http://code.google.com/p/gfplus/ Main Page]
  * [plans Plans]
  * Upgrades, Special items, and Special Weapons
- * [Gameplay How to play]
+ * How to play
