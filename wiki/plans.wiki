@@ -9,3 +9,5 @@ At the moment, there are two types of gametypes that we are planning on implemen
 ||Name||Description||
 ||Assault||Players start out with one control point from which they must branch out and capture additional control points. One team wins when they capture all of the control points and eliminate all enemy players.||
 ||Capture The Flag||Players begin in a designated area of the map and must build up their base in that area to protect their flag, and attack enemy bases as to steal their flag and bring it back to their base to score. The winner is decided by which team has the most points once the time left reaches 0.||
+
+[http://code.google.com/p/gfplus/ project home]
