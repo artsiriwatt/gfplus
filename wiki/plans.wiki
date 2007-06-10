@@ -2,6 +2,7 @@
  * [http://code.google.com/p/gfplus/ Main Page]
  * Plans
  * [Specials Upgrades, Special items, and Special Weapons]
+ * [Gameplay How to play]
 
 = Introduction =
 This page contains details on what the current plans for [GMForts] are. These are only ideas so this page is subject to frequent change.
