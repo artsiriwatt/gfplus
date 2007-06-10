@@ -1,4 +1,7 @@
-Our plans for [GMForts]
+==Index==
+ * [Main Page]
+ * Plans
+ * [Upgrades, Special items, and Special Weapons]
 
 = Introduction =
 This page contains details on what the current plans for [GMForts] are. These are only ideas so this page is subject to frequent change.
@@ -34,5 +37,3 @@ Upgrades and special items will be purchased using Upgrade Points that each memb
 ||Name||Purpose||Notes||Types||Cost||
 ||Radar||A radar dish that detects intruders in a set radius around itself and displays them on your minimap and HUD.||Extremely useful for defending important areas because it gives you and your team early warning and provides HUD icons for easy location of the enemy.||Small Radar/Large Radar||Small Radar=10 UP/Large Radar=20 UP||
 ||Turret||A popup turret that attacks intruders within its line-of-sight.||Very useful for controlling chokepoints or defending important areas. Can be used for offensive purposes but due to its long deploy time, the enemy may kill the deploying teammates.||Anti-Infantry Turret/Anti-Vehicle Turret||A-Inf Turret=15 UP/A-Vehc Turret=20 UP||
-
-[http://code.google.com/p/gfplus/ Project home]
