@@ -6,7 +6,7 @@ This page contains details on what the current plans for [GMForts] are. These ar
 =Plans=
 These are our plans for what GMForts will contain once it has been completed
 
-==Gametypes==
+=Gametypes=
 At the moment, there are two types of gametypes that we are planning on implementing.
 
 ||*Name*||*Description*||
