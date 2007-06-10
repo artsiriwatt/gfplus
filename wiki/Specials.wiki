@@ -2,6 +2,7 @@
  * [http://code.google.com/p/gfplus/ Main Page]
  * [plans Plans]
  * Upgrades, Special items, and Special Weapons
+ * [Gameplay How to play]
 
 ===Upgrades===
 *TIP:* +UP per level means that it will cost # more UP for each additional level that you purchase.
