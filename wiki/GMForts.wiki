@@ -7,3 +7,5 @@ GMForts is a Garrysmod gamemode based around the gameplay aspect of building for
 == Details ==
 
 GMForts is currently in it's development phase. It has two planned gametypes and a very large amount of new and improved content over it's predecessor.
+
+[http://code.google.com/p/gfplus/ project home]
