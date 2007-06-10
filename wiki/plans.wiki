@@ -20,6 +20,6 @@ Upgrades and special items will be purchased using Upgrade Points that each team
 
 *Assault:* Every minute that a control point in Assault is held, 1 UP is awarded to a team's score. So if you hold 3 control points for a minute, your team gains 3 UP.
 
-*CTF:* When your team captures a flag in CTF, your team gains 5 UP, your team also gains 1 UP for every time you steal a flag but fail to capture it.
+*CTF:* When a member of your team takes a flag in CTF, your team gains 1 UP. If your team captures that flag, then your team gains an additional 4 UP for a total of +5 UP.
 
 [http://code.google.com/p/gfplus/ Project home]
