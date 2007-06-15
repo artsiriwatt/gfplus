@@ -31,4 +31,11 @@ N.B. where this overlaps with the basic upgrades design decisions are yet to be 
 ||Deployable Spawner||Once deployed, players may spawn basic building blocks using this Special Item.||Useful if you wish to make a forward outpost or small base somewhere away from your main spawners, the only drawback is that you cannot spawn any of the more advanced blocks or Special Items.||N/A||15UP||
 ||Deployable Shield Generator||The Shield Generator creates a shield around a predefined radius that stops bullets and projectiles but lets players through until either A) The shield is destroyed by concentrated fire, or B) The shield generator is removed.||Primarily used for protecting an area from enemy fire while players build within the shield or to provide protection from incoming enemies, can be used offensively as a safe haven within which to spawn but concentrated fire from defenders can destroy the shield.||Small Shield Generator/Large Shield Generator||Small Shield Generator=15UP/Large Shield Generator=30UP||
 
+===Special Weapons===
+|| Name || Level || Effect || Initial Cost/Additive Cost || Notes ||
+|| RPG Launcher || 1 || Straight firing. || 30/30 || Single shot. Unfreezes enemy blocks. ||
+|| || 2 || Homing. || || ||
+|| C4 || 1 || BOOM! || 25/25 || Single use. ||
+
+
 
