@@ -35,7 +35,6 @@ N.B. where this overlaps with the basic upgrades design decisions are yet to be 
 || Name || Level || Effect || Initial Cost/Additive Cost || Notes ||
 || RPG Launcher || 1 || Straight firing. || 30/30 || Single shot. Unfreezes enemy blocks. ||
 || || 2 || Homing. || || ||
-|| C4 || 1 || BOOM! || 25/25 || Single use. ||
-
+|| C4 || 1 || BOOM! || 25/25 || Single use. Unfreezes enemy blocks. ||
 
 
