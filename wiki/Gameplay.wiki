@@ -3,6 +3,7 @@
  * [plans Plans]
  * [Specials Upgrades, Special items, and Special Weapons]
  * How to play
+ * [Vehicles]
 
 =Introduction=
 GMForts is a unique gamemode for Garrys Mod that is based around the simple, yet complex, aspect of building bases and assaulting your enemies' bases. This section is designed to give new players a solid base of knowledge on which to play GMForts with.
