@@ -3,6 +3,7 @@
  * [plans Plans]
  * Upgrades, Special items, and Special Weapons
  * [Gameplay How to play]
+ * [Vehicles]
 
 ===Upgrades===
 *TIP:* +UP per level means that it will cost # more UP for each additional level that you purchase.
@@ -36,4 +37,3 @@ N.B. where this overlaps with the basic upgrades design decisions are yet to be 
 || RPG Launcher || 1 || Straight firing. || 30/30 || Single shot. Unfreezes enemy blocks. ||
 || || 2 || Homing. || || ||
 || C4 || 1 || BOOM! || 25/25 || Single use. Unfreezes enemy blocks. ||
-
