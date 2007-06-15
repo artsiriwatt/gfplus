@@ -9,3 +9,6 @@ This page contains details on what the current plans for [GMForts] are. These ar
 
 =Gametypes=
 At the moment, there are two types of gametypes that we are planning on implementing: Assault and Capture The Flag. See the [Gameplay How to play] section for more information.
+
+=Vehicles=
+Several vehicles are planned for GMForts that will be used to traverse the map and inflict damage on enemies.
