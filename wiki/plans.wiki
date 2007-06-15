@@ -3,6 +3,7 @@
  * Plans
  * [Specials Upgrades, Special items, and Special Weapons]
  * [Gameplay How to play]
+ * [Vehicles]
 
 = Introduction =
 This page contains details on what the current plans for [GMForts] are. These are only ideas so this page is subject to frequent change.
