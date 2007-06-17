@@ -6,7 +6,7 @@
  * [Vehicles]
 
 ===Upgrades===
-*TIP:* +UP per level means that it will cost # more UP for each additional level that you purchase.
+*TIP:* Additive Cost means that it will cost +# more UP for each additional level that you purchase.
 ||*Name*||*Effect*||*Notes*||*Initial Cost/Additive Cost*||*Maximum Level*||
 ||Health Upgrade||Adds 25 to your maximum health||Useful for surviving an assault on an enemy base or defending against 1-hit sniper kills. Can be combined with Armor and Weapon Upgrades to become a 'Juggernaught'.||10/+5||4||
 ||Armor Upgrade||Adds 25 to your maximum armor||Useful for surviving an assault on an enemy base or defending against 1-hit sniper kills. Can be combined with Health and Weapon Upgrades to become a 'Juggernaught'.||10/+5||4||
