@@ -4,6 +4,8 @@
  * Upgrades, Special items, and Special Weapons
  * [Gameplay How to play]
  * [Vehicles]
+ * [Awards]
+ * [Ranks]
 
 ===Upgrades===
 *TIP:* Additive Cost means that it will cost +# more UP for each additional level that you purchase.
