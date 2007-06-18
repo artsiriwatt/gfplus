@@ -7,4 +7,4 @@
  * [Awards]
  * Ranks
 
-Ranks are unlocked by meeting certain criteria. They provide you with a new playermodel and Title which are essentially just for bragging rights
+Ranks are unlocked by meeting certain criteria. They provide you with a new playermodel and title. Ranks do nothing other than give you bragging rights for accomplishing certain tasks such as earning awards.
