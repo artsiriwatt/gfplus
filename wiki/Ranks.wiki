@@ -1,1 +1,10 @@
+==Index==
+ * [http://code.google.com/p/gfplus/ Main Page]
+ * [plans Plans]
+ * [Specials Upgrades, Special items, and Special Weapons]
+ * [Gameplay How to play]
+ * [Vehicles]
+ * [Awards]
+ * Ranks
+
 Ranks are unlocked by meeting certain criteria. They provide you with a new playermodel and Title which are essentially just for bragging rights
