@@ -13,3 +13,6 @@ At the moment, there are two types of gametypes that we are planning on implemen
 
 =Vehicles=
 Several vehicles are planned for GMForts that will be used to traverse the map and inflict damage on enemies.
+
+=Stat Tracking/Awards=
+GMForts is planned to have Stat Tracking for each player that joins the official server. They will be able to earn new Ranks, (which is merely a different player model and the bragging rights that go with it, possibly a few other goodies) and recieve Awards for performing certain feats.
