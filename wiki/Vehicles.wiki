@@ -4,6 +4,8 @@
  * [Specials Upgrades, Special items, and Special Weapons]
  * [Gameplay How to play]
  * Vehicles
+ * [Awards]
+ * [Ranks]
 
 Vehicles will be a useful part of GMForts that will provide critical roles such as transporting troops, providing fire support, or even leading an assault. They are something that your team should use with care due to their cost, but can turn the tide of a battle. They have two critical stats that determine how easily they can be destroyed by enemy fire: Health and Armor. Health is how much damage the vehicle can take, the lower this number, the less punishment it can withstand. Armor is the percentage of damage taken that is negated, the higher this number, the less damage from weapons gets through to damage the vehicle's Health.
 
