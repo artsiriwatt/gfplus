@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name"		"GMForts GM"
+	"version"	"WIP"
+
+	"author_name"	"GMForts Team"
+	"author_email"	""
+	"author_url"	"gmod.phuce.com"
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+}
